@@ -1,7 +1,7 @@
 # VideoGame
 # Wrote a user-interaction game in Python.
 
-Implemented button and mous-clicking features for user 
+Implemented buttons and mouse-clicking features for user 
 to be able to move left and right, and jump to dodge spawning 
 enemies. Created buttons representing different levels, as well 
 as a restart button.
